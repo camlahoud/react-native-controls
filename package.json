@@ -13,6 +13,6 @@
   "author": "Camille Lahoud",
   "license": "ISC",
   "dependencies" : {
-    "native-base": "^0.5.20",
+    "native-base": "^0.5.20"
   }
 }
