@@ -12,7 +12,7 @@
   ],
   "author": "Camille Lahoud",
   "license": "ISC",
-  "dependencies" : {
+  "peerDependencies" : {
     "native-base": "^0.5.20"
   }
 }
