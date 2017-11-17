@@ -1,6 +1,6 @@
 {
   "name": "react-native-controls",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "Camille Lahoud",
   "license": "ISC",
   "peerDependencies" : {
-    "native-base": "^0.5.20"
+    "native-base": "^2.2.0"
   }
 }
